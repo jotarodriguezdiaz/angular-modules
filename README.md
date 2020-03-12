@@ -25,3 +25,4 @@ It does not require npm install
 $ ng serve
 ```
 
+![N|Solid](https://raw.githubusercontent.com/jotarodriguezdiaz/angular-modules/master/screenshot.PNG)
